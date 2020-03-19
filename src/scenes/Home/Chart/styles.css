@@ -1,0 +1,19 @@
+.myChart {
+    position: relative;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+
+    width: 100vw;
+    height: 400px;
+
+    box-sizing: border-box;
+    display: flex;
+
+    top: 0px;
+    overflow-y: auto;
+    display:block;
+}
+
+.myChartCanvas {
+}

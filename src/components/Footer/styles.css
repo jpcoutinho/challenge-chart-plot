@@ -1,0 +1,34 @@
+footer {
+    position: fixed;
+    background-color: #DDDEE1FF;
+    width: 100vw;
+    
+    bottom: 0px;
+    display:block;
+}
+
+.button_wrapper {
+    padding-left: 40px;
+    padding-top: 16px;
+    padding-bottom: 20px;
+}
+
+footer button {
+    background-color: #017EFF;
+    border: none;
+    color: white;
+    font-size: 10px;
+    padding: 14px 18px;
+    border-radius: 4px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+    transition-duration: 0.3s;
+    
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 3px 10px 0 rgba(0,0,0,0.19);
+    
+}
+
+footer button:hover {
+    background-color: #1b67b5;
+    cursor: pointer;
+}
