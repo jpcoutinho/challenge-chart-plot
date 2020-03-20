@@ -1,8 +1,13 @@
 .editor-wrapper {
     position: relative;
-    height: 235px;
+    height: 280px;
     width: 100vw;
 }
+
+#ace-editor {
+    font-size: 18px;
+}
+
 .resizer {
     position: relative;
     width: 30px;
@@ -24,21 +29,19 @@
     cursor: grabbing;
 }
 
-.ace-editor{
-    font-family: 'Source Code Pro', sans-serif !important;
-    font-size: 30px !important; 
+.ace_scrollbar-v::-webkit-scrollbar {
+    width: 8px;
 }
 
-#editor .ace_content{
-    top: 12px;
+.ace_scrollbar-v::-webkit-scrollbar-track {
+    background: #2e3440;
 }
 
-
-.ace_content, .ace_gutter{
-    
+.ace_scrollbar-v::-webkit-scrollbar-thumb {
+    background: #60656e; 
+    border-radius: 8px;
 }
 
-.ace_scoller{
-    padding-top: 12px ;
+.ace_scrollbar-v::-webkit-scrollbar-thumb:hover {
+    background: #555; 
 }
-

@@ -2,7 +2,7 @@ import React from 'react'
 
 import AceEditor from 'react-ace'
 import "ace-builds/src-noconflict/mode-javascript";
-import "ace-builds/src-noconflict/theme-monokai";
+import "ace-builds/src-noconflict/theme-intelie";
 
 import './styles.css'
 
@@ -15,7 +15,7 @@ class CodeArea extends React.Component {
     }
 
     componentDidMount() {
-        this.editorRef.current.style.height = "235px";
+        this.editorRef.current.style.height = "280px";
         this.default = this.props.defaultValue;
     }
 
@@ -53,7 +53,6 @@ class CodeArea extends React.Component {
         document.body.removeEventListener('mousemove', this.onMouseMove);
         window.removeEventListener('mouseup', this.onMouseUp);
 
-
         console.log("up");
     }
 
@@ -65,16 +64,15 @@ class CodeArea extends React.Component {
     render() {
         return (
             <div className="editor-wrapper" ref={this.editorRef}>
-                <AceEditor className="editor"
+                <AceEditor
                     mode="javascript"
-                    theme="monokai"
+                    theme="intelie"
                     placeholder="Input your data here"
                     width="100%"
                     height="100%"
                     onChange={this.onChange}
                     value = {this.props.value}
                     defaultValue={this.props.defaultValue}
-
                     showPrintMargin = {false}
                     wrapEnabled     = {true}
                 />
