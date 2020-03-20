@@ -3,7 +3,6 @@ import React from 'react'
 import AceEditor from 'react-ace'
 import "ace-builds/src-noconflict/mode-javascript";
 import "ace-builds/src-noconflict/theme-intelie";
-
 import './styles.css'
 
 class CodeArea extends React.Component {
@@ -17,7 +16,6 @@ class CodeArea extends React.Component {
     componentDidMount() {
         this.editorRef.current.style.height = "280px";
         this.default = this.props.defaultValue;
-        alert("Teste");
     }
 
     componentWillUnmount() {
@@ -81,7 +79,6 @@ class CodeArea extends React.Component {
             </div>
         );
     }
-
 }
 
 export default CodeArea;
