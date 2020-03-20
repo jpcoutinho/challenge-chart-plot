@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/challenge-chart-plot/static/css/main.6e1af76b.chunk.css",
-    "main.js": "/challenge-chart-plot/static/js/main.d5d70bec.chunk.js",
-    "main.js.map": "/challenge-chart-plot/static/js/main.d5d70bec.chunk.js.map",
+    "main.css": "/challenge-chart-plot/static/css/main.c6cbe72f.chunk.css",
+    "main.js": "/challenge-chart-plot/static/js/main.21c78128.chunk.js",
+    "main.js.map": "/challenge-chart-plot/static/js/main.21c78128.chunk.js.map",
     "runtime-main.js": "/challenge-chart-plot/static/js/runtime-main.8ee14943.js",
     "runtime-main.js.map": "/challenge-chart-plot/static/js/runtime-main.8ee14943.js.map",
     "static/js/2.5946bb9f.chunk.js": "/challenge-chart-plot/static/js/2.5946bb9f.chunk.js",
     "static/js/2.5946bb9f.chunk.js.map": "/challenge-chart-plot/static/js/2.5946bb9f.chunk.js.map",
     "index.html": "/challenge-chart-plot/index.html",
-    "precache-manifest.e624f46a9a6c85a94488991454362946.js": "/challenge-chart-plot/precache-manifest.e624f46a9a6c85a94488991454362946.js",
+    "precache-manifest.3bd24bf3fe9b2149e1105be4b27a70d9.js": "/challenge-chart-plot/precache-manifest.3bd24bf3fe9b2149e1105be4b27a70d9.js",
     "service-worker.js": "/challenge-chart-plot/service-worker.js",
-    "static/css/main.6e1af76b.chunk.css.map": "/challenge-chart-plot/static/css/main.6e1af76b.chunk.css.map",
+    "static/css/main.c6cbe72f.chunk.css.map": "/challenge-chart-plot/static/css/main.c6cbe72f.chunk.css.map",
     "static/js/2.5946bb9f.chunk.js.LICENSE.txt": "/challenge-chart-plot/static/js/2.5946bb9f.chunk.js.LICENSE.txt",
     "static/media/index.css": "/challenge-chart-plot/static/media/SourceSansPro-Regular.c1678b46.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.8ee14943.js",
     "static/js/2.5946bb9f.chunk.js",
-    "static/css/main.6e1af76b.chunk.css",
-    "static/js/main.d5d70bec.chunk.js"
+    "static/css/main.c6cbe72f.chunk.css",
+    "static/js/main.21c78128.chunk.js"
   ]
 }
