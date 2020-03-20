@@ -14,7 +14,7 @@ class CodeArea extends React.Component {
     }
 
     componentDidMount() {
-        this.editorRef.current.style.height = "280px";
+        this.editorRef.current.style.height = "270px";
         this.default = this.props.defaultValue;
     }
 
