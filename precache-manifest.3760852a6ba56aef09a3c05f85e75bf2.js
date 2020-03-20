@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ae181bc8d8de34bd1ec5baece5fdc12",
+    "revision": "3de0e27448913c497f3ef3f86e600fbb",
     "url": "/challenge-chart-plot/index.html"
   },
   {
-    "revision": "7ca511245311fc717592",
-    "url": "/challenge-chart-plot/static/css/main.a44e562c.chunk.css"
+    "revision": "00a4db2998ba1385ec3a",
+    "url": "/challenge-chart-plot/static/css/main.6e1af76b.chunk.css"
   },
   {
     "revision": "320d889e8da977921410",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/challenge-chart-plot/static/js/2.5946bb9f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ca511245311fc717592",
-    "url": "/challenge-chart-plot/static/js/main.d5d70bec.chunk.js"
+    "revision": "00a4db2998ba1385ec3a",
+    "url": "/challenge-chart-plot/static/js/main.ff2f37c1.chunk.js"
   },
   {
     "revision": "19360a93099d330921e1",
