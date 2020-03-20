@@ -1,3 +1,6 @@
+#Try here:
+https://jpcoutinho.github.io/challenge-chart-plot/
+
 # Plotting a chart
 
 In this challenge, you will implement a web application that plots a line chart based on some manually input data.
