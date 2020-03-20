@@ -1,4 +1,5 @@
-#Try here:
+# Try here:
+
 https://jpcoutinho.github.io/challenge-chart-plot/
 
 # Plotting a chart
