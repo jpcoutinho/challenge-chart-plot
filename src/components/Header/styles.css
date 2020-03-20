@@ -8,6 +8,7 @@ header {
 header div {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 20px;
+    font-weight: bold;
 
     padding-top: 20px;
     padding-left: 40px;
